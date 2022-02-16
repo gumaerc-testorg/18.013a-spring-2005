@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Mathematical symbol for the divergence of the vector field w
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-013a-calculus-with-applications-spring-2005/04b19ddcdbefb2b0c0bae64cafc72161_glossary_eqn27.gif
+file: /media/courses/18-013a-calculus-with-applications-spring-2005/04b19ddcdbefb2b0c0bae64cafc72161_glossary_eqn27.gif
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: glossary_eqn27.gif
 uid: 04b19ddc-dbef-b2b0-c0ba-e64cafc72161

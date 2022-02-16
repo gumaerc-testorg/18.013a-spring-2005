@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: e8cdc347-f062-2f11-96ad-2879f268cc73
 ---
@@ -52,7 +54,7 @@ The value of the sine function at argument x
 exp(x)
 {{< tdclose >}}
 {{< tdopen >}}
-The value of the exponential function at argument x. This is often written as ex
+The value of the exponential function at argument x. This is often written as e{{< sup "x" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +78,7 @@ The inverse function to exp x
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-ax
+a{{< sup "x" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Same as a^x
@@ -85,10 +87,10 @@ Same as a^x
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-logba
+log{{< sub "b" >}}a
 {{< tdclose >}}
 {{< tdopen >}}
-The power you must raise b to in order to get a; blogba = a
+The power you must raise b to in order to get a; b{{< sup "{{< sup \"log{{< sub \\\"b\\\" >}}a\" >}}" >}} = a
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -301,7 +303,7 @@ A column vector, that is one whose components are written as a column and treate
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-<v|
+\<v|
 {{< tdclose >}}
 {{< tdopen >}}
 A vector written as a row, or 1 by k matrix
@@ -331,7 +333,7 @@ A small change in distance
 ρ
 {{< tdclose >}}
 {{< tdopen >}}
-The variable (x2 + y2 + z2)1/2 or distance to the origin in spherical coordinates
+The variable (x{{< sup "2" >}} + y{{< sup "2" >}} + z{{< sup "2" >}}){{< sup "1/2" >}} or distance to the origin in spherical coordinates
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -340,7 +342,7 @@ The variable (x2 + y2 + z2)1/2 or distance to the origin in spherical coordinate
 r
 {{< tdclose >}}
 {{< tdopen >}}
-The variable (x2 + y2)1/2 or distance to the z axis in three dimensions or in polar coordinates
+The variable (x{{< sup "2" >}} + y{{< sup "2" >}}){{< sup "1/2" >}} or distance to the z axis in three dimensions or in polar coordinates
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -373,7 +375,7 @@ The determinant of M
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-M\-1
+M{{< sup "\\-1" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 The inverse of the matrix M
@@ -391,7 +393,7 @@ The vector product or cross product of two vectors, v and w
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-θvw
+θ{{< sub "vw" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 The angle made by vectors v and w
@@ -409,7 +411,7 @@ The scalar triple product, the determinant of the matrix formed by columns A, B,
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-uw
+u{{< sub "w" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 A unit vector in the direction of the vector w; it means the same as w/|w|
@@ -454,7 +456,7 @@ The partial derivative of f with respect to x, keeping y, and z fixed. In genera
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-(∂f/∂x)|r,z
+(∂f/∂x)|{{< sub "r,z" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 The partial derivative of f with respect to x keeping r and z fixed
@@ -484,7 +486,7 @@ The vector operator (∂/∂x)i + (∂/∂x)j + (∂/∂x)k, called "del"
 ∇f
 {{< tdclose >}}
 {{< tdopen >}}
-The gradient of f; its dot product with uw is the directional derivative of f in the direction of w
+The gradient of f; its dot product with u{{< sub "w" >}} is the directional derivative of f in the direction of w
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -493,7 +495,7 @@ The gradient of f; its dot product with uw is the directional derivative of f in
 ∇•w
 {{< tdclose >}}
 {{< tdopen >}}
-The divergence of the vector field w; it is the dot product of the vector operator ∇ with the vector w, or (∂wx /∂x) + (∂wy /∂y) + (∂wz /∂z)
+The divergence of the vector field w; it is the dot product of the vector operator ∇ with the vector w, or (∂w{{< sub "x" >}} /∂x) + (∂w{{< sub "y" >}} /∂y) + (∂w{{< sub "z" >}} /∂z)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -511,7 +513,7 @@ The cross product of the vector operator ∇ with the vector w
 ∇×w
 {{< tdclose >}}
 {{< tdopen >}}
-The curl of w, with components \[(∂fz /∂y) - (∂fy /∂z), (∂fx /∂z) - (∂fz /∂x), (∂fy /∂x) - (∂fx /∂y)\]
+The curl of w, with components \[(∂f{{< sub "z" >}} /∂y) - (∂f{{< sub "y" >}} /∂z), (∂f{{< sub "x" >}} /∂z) - (∂f{{< sub "z" >}} /∂x), (∂f{{< sub "y" >}} /∂x) - (∂f{{< sub "x" >}} /∂y)\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -520,7 +522,7 @@ The curl of w, with components \[(∂fz /∂y) - (∂fy /∂z), (∂fx /∂z) - 
 ∇•∇
 {{< tdclose >}}
 {{< tdopen >}}
-The Laplacian, the differential operator: (∂2/∂x2) + (∂/∂y2) + (∂/∂z2)
+The Laplacian, the differential operator: (∂{{< sup "2" >}}/∂x{{< sup "2" >}}) + (∂/∂y{{< sup "2" >}}) + (∂/∂z{{< sup "2" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -535,7 +537,7 @@ The second derivative of f with respect to x; the derivative of f '(x)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-d2f/dx2
+d{{< sup "2" >}}f/dx{{< sup "2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 The second derivative of f with respect to x
@@ -544,7 +546,7 @@ The second derivative of f with respect to x
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-f(2)(x)
+f{{< sup "(2)" >}}(x)
 {{< tdclose >}}
 {{< tdopen >}}
 Still another form for the second derivative of f with respect to x
@@ -553,10 +555,10 @@ Still another form for the second derivative of f with respect to x
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-f(k)(x)
+f{{< sup "(k)" >}}(x)
 {{< tdclose >}}
 {{< tdopen >}}
-The k-th derivative of f with respect to x; the derivative of f(k-1) (x)
+The k-th derivative of f with respect to x; the derivative of f{{< sup "(k-1)" >}} (x)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -643,7 +645,7 @@ The spring constant of a spring
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-pi
+p{{< sub "i" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 The momentum of the i-th particle
@@ -655,7 +657,7 @@ The momentum of the i-th particle
 H
 {{< tdclose >}}
 {{< tdopen >}}
-The Hamiltonian of a physical system, which is its energy expressed in terms of {ri} and {pi}, position and momentum
+The Hamiltonian of a physical system, which is its energy expressed in terms of {r{{< sub "i" >}}} and {p{{< sub "i" >}}}, position and momentum
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -682,7 +684,7 @@ An antiderivative of f(x) expressed as a function of x
 ![](/courses/mathematics/18-013a-calculus-with-applications-spring-2005/study-materials/glossary_eqn3.jpg)
 {{< tdclose >}}
 {{< tdopen >}}
-The definite integral of f from a to b. When f is positive and a < b holds, then this is the area between the x axis the lines y = a, y = b and the curve that represents the function f between these lines
+The definite integral of f from a to b. When f is positive and a \< b holds, then this is the area between the x axis the lines y = a, y = b and the curve that represents the function f between these lines
 {{< tdclose >}}
 
 {{< trclose >}}

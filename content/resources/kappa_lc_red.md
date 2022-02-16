@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-013a-calculus-with-applications-spring-2005/729f7ddb125cb924d8c5bb0642bc035c_kappa_lc_red.gif
+file: /media/courses/18-013a-calculus-with-applications-spring-2005/729f7ddb125cb924d8c5bb0642bc035c_kappa_lc_red.gif
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: kappa_lc_red.gif
 uid: 729f7ddb-125c-b924-d8c5-bb0642bc035c

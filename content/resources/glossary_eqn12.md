@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Mathematical symbol for the sum of j for j=1 to n.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-013a-calculus-with-applications-spring-2005/fc8c25d2684f5e943f452197688cc8a3_glossary_eqn12.gif
+file: /media/courses/18-013a-calculus-with-applications-spring-2005/fc8c25d2684f5e943f452197688cc8a3_glossary_eqn12.gif
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: glossary_eqn12.gif
 uid: fc8c25d2-684f-5e94-3f45-2197688cc8a3

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-013a-calculus-with-applications-spring-2005/6e84be05e96e141ed01236f06ee5edb0_sigma_uc.gif
+file: /media/courses/18-013a-calculus-with-applications-spring-2005/6e84be05e96e141ed01236f06ee5edb0_sigma_uc.gif
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: sigma_uc.gif
 uid: 6e84be05-e96e-141e-d012-36f06ee5edb0
