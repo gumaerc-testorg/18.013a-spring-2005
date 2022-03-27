@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e8cdc347-f062-2f11-96ad-2879f268cc73
 resourcetype: Image
 title: tau_lc.gif
 uid: c7715f0b-658a-2e20-1105-96a90aea4b50

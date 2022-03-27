@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e8cdc347-f062-2f11-96ad-2879f268cc73
 resourcetype: Image
 title: sup_equal.gif
 uid: 81ac567d-a5c8-f4a4-6e1a-0ddda0439ce0

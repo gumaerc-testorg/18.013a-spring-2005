@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e8cdc347-f062-2f11-96ad-2879f268cc73
 resourcetype: Image
 title: glossary_eqn26.gif
 uid: 1ff18a62-5ab0-c250-4ba4-249ab3d9a91f
