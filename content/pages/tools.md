@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: '18.013A Java Tools: This section features a set of interactive Java
+  Applets for the entire curriculum.'
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
 title: Tools
 uid: 17f2c706-47cc-050b-33f4-06cab82fa4b6
+video_metadata:
+  youtube_id: null
 ---
 
 Precalculus

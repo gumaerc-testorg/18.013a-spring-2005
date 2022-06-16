@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: These assignments provide review exercises from 1 to 5 assigned for the
+  course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: ac566913-72bd-a495-c22a-5cfd0d4549fc
+video_metadata:
+  youtube_id: null
 ---
 
 Review Exercises 1 - 5
@@ -49,8 +53,8 @@ Differentiate the following functions with respect to the indicated variables:
 *   sin (2{{< sup "x" >}}).
 *   (sin xy)e{{< sup "x+y" >}} with respect to x for fixed y.
 *   x{{< sup "2" >}} + y{{< sup "2" >}} - 3xy with respect to y for fixed x.
-*   (sin (y + s sin t))e{{< sup "\\-(x+s cos t)" >}} with respect to s everything else fixed.
-*   Find the gradient of (sin y)e{{< sup "\\-x" >}}.
+*   (sin (y + s sin t))e{{< sup "\-(x+s cos t)" >}} with respect to s everything else fixed.
+*   Find the gradient of (sin y)e{{< sup "\-x" >}}.
 *   Find the directional derivative of this function in the direction whose unit vector is (cos t, sin t).
 *   Find the linear approximation to sin (e{{< sup "x" >}}) at x = 0.
 *   Evaluate the derivative with respect to t of (**r**×**v**) where **v** is d**r**/dt; suppose that d**v**/dt is in the direction of **r**. What then is the answer?
