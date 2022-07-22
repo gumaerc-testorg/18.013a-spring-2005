@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: This calendar provides information on number of chapters and the corrosponding
+  topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 9d73cb30-abfa-312b-7c35-b51500eae25f
+video_metadata:
+  youtube_id: null
 ---
 
 This course is designed as a self-study program in differential calculus. The content is organized into "chapters" below.
