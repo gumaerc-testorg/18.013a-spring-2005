@@ -12,6 +12,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
   youtube_id: null
 ---
 Mathematical symbol for the partial derivative of f with respect to x, keeping y, and z fixed. In general a partial derivative of f with respect to a variable q is the ratio of df to dq when certain other variables are held fixed. Where there is possible misunderstanding over which variables are to be fixed that information should be made explicit.
-

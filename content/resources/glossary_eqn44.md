@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Mathematical symbol for the definite integral of f from a to b. When f is positive and a < b holds, then this is the area between the x axis the lines y = a, y = b and the curve that represents the function f between these lines.
-
