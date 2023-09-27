@@ -8,7 +8,6 @@ uid: e8cdc347-f062-2f11-96ad-2879f268cc73
 video_metadata:
   youtube_id: null
 ---
-
 Glossary of Notations
 ---------------------
 
@@ -93,7 +92,7 @@ Same as a^x
 log{{< sub "b" >}}a
 {{< tdclose >}}
 {{< tdopen >}}
-The power you must raise b to in order to get a; b{{< sup "{{< sup \"log{{< sub \\\"b\\\" >}}a\" >}}" >}} = a
+The power you must raise b to in order to get a; \\(b^{\log_{b}a} = a\\)
 {{< tdclose >}}
 
 {{< trclose >}}
