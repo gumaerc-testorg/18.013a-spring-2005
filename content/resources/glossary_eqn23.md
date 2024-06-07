@@ -3,6 +3,7 @@ content_type: resource
 description: Mathematical symbols for the partial derivative of f with respect to
   x keeping r and z fixed.
 file: /courses/18-013a-calculus-with-applications-spring-2005/4b4e9782c5c238030ec724d24ad88a25_glossary_eqn23.gif
+file_size: 490
 file_type: image/gif
 image_metadata:
   caption: ''

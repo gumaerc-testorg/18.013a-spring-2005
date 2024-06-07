@@ -2,6 +2,7 @@
 content_type: resource
 description: Mathematical symbol for the Laplacian.
 file: /courses/18-013a-calculus-with-applications-spring-2005/474fbdfd7557d18622d7df83d883683e_glossary_eqn31.gif
+file_size: 370
 file_type: image/gif
 image_metadata:
   caption: ''

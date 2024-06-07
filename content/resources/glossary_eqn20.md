@@ -3,6 +3,7 @@ content_type: resource
 description: Mathematical formula for a unit vector in the direction of the vector
   w.
 file: /courses/18-013a-calculus-with-applications-spring-2005/5577d323f06adaa6c8039c2a05161cd4_glossary_eqn20.gif
+file_size: 403
 file_type: image/gif
 image_metadata:
   caption: ''

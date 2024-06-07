@@ -4,6 +4,7 @@ description: Two possible notations of the gradient of f (i.e. the vector field 
   components are the partial derivatives of the function f with respect to x, y and
   z).
 file: /courses/18-013a-calculus-with-applications-spring-2005/c88b164c007afe5a567fb5cc05af7262_glossary_eqn24.gif
+file_size: 1193
 file_type: image/gif
 image_metadata:
   caption: ''

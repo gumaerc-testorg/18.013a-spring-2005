@@ -3,6 +3,7 @@ content_type: resource
 description: Mathematical symbol for a unit vector in the direction of the vector
   w.
 file: /courses/18-013a-calculus-with-applications-spring-2005/24c24dc0f3b786479e58688a6eb14c9a_glossary_eqn19.gif
+file_size: 332
 file_type: image/gif
 image_metadata:
   caption: ''

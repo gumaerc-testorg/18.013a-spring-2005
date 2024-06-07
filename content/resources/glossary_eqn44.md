@@ -4,6 +4,7 @@ description: Mathematical symbol for the definite integral of f from a to b. Whe
   f is positive and a < b holds, then this is the area between the x axis the lines
   y = a, y = b and the curve that represents the function f between these lines.
 file: /courses/18-013a-calculus-with-applications-spring-2005/901bfbd95d168e475573128dd5bf734a_glossary_eqn44.gif
+file_size: 504
 file_type: image/gif
 image_metadata:
   caption: ''
