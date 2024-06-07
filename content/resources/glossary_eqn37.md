@@ -2,6 +2,7 @@
 content_type: resource
 description: Mathematical formula for the unit tangent vector along a curve.
 file: /courses/18-013a-calculus-with-applications-spring-2005/a5e4bd6e58ac3ec489e8f3dbb6defa54_glossary_eqn37.gif
+file_size: 592
 file_type: image/gif
 image_metadata:
   caption: ''

@@ -4,6 +4,7 @@ description: Mathematical symbol for an angle (Greek letter theta).  Measured in
   unless stated otherwise. Used especially for the inverse tangent of (x/y) when x,
   y, and z are variables used to describe point in three dimensional space.
 file: /courses/18-013a-calculus-with-applications-spring-2005/62904569df3b90c13e28bc72abe69959_theta_lc.gif
+file_size: 275
 file_type: image/gif
 image_metadata:
   caption: ''

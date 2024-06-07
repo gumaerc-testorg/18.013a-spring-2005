@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-013a-calculus-with-applications-spring-2005/0b34273342b0c7976237ad47366c6fec_glossary_eqn05.gif
+file_size: 448
 file_type: image/gif
 image_metadata:
   caption: ''
