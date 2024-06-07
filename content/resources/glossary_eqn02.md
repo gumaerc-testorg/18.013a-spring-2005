@@ -3,6 +3,7 @@ content_type: resource
 description: Mathematical symbol for the logarithm of a, base b, i.e. the power you
   must raise b to in order to get a.
 file: /courses/18-013a-calculus-with-applications-spring-2005/1deccdd013a2683eb63fac390172c069_glossary_eqn02.gif
+file_size: 388
 file_type: image/gif
 image_metadata:
   caption: ''

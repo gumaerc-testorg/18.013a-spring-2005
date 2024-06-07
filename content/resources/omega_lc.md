@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-013a-calculus-with-applications-spring-2005/65980bebda64f8fced3f45c74fa99a57_omega_lc.gif
+file_size: 271
 file_type: image/gif
 image_metadata:
   caption: ''

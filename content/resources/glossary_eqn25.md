@@ -2,6 +2,7 @@
 content_type: resource
 description: Mathematical formula for the "del" vector operator
 file: /courses/18-013a-calculus-with-applications-spring-2005/50645060cf0ed29367c004a3dd6499bb_glossary_eqn25.gif
+file_size: 664
 file_type: image/gif
 image_metadata:
   caption: ''

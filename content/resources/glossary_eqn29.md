@@ -2,6 +2,7 @@
 content_type: resource
 description: Mathematical symbol for the curl of w
 file: /courses/18-013a-calculus-with-applications-spring-2005/7fc7abea127feca9bedbc25f4133bc5b_glossary_eqn29.gif
+file_size: 372
 file_type: image/gif
 image_metadata:
   caption: ''

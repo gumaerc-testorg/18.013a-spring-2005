@@ -4,6 +4,7 @@ description: Mathematical formula for the curvature of a curve. The magnitude of
   derivative of the unit tangent vector of a curve with respect to distance on the
   curve.
 file: /courses/18-013a-calculus-with-applications-spring-2005/941a075fd7476209a8c8d98a6aadea21_glossary_eqn38.gif
+file_size: 454
 file_type: image/gif
 image_metadata:
   caption: ''

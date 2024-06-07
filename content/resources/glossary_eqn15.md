@@ -2,6 +2,7 @@
 content_type: resource
 description: Mathematical symbol for the inverse of the matrix M.
 file: /courses/18-013a-calculus-with-applications-spring-2005/0b76104d358254f1ad229fbb46e91ca5_glossary_eqn15.gif
+file_size: 355
 file_type: image/gif
 image_metadata:
   caption: ''
