@@ -2,7 +2,7 @@
 content_type: resource
 description: Mathematical symbol for the distance to the origin in spherical coordinates
   (Greek letter rho).
-file: /courses/18-013a-calculus-with-applications-spring-2005/9341d72bfc598b8396cfd8efbb38cfdd_rho_lc.gif
+file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/9341d72bfc598b8396cfd8efbb38cfdd_rho_lc.gif
 file_size: 274
 file_type: image/gif
 image_metadata:
