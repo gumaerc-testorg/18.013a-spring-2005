@@ -2,7 +2,7 @@
 content_type: resource
 description: Mathematical formula for the scalar triple product, the determinant of
   the matrix formed by columns A, B, C.
-file: /courses/18-013a-calculus-with-applications-spring-2005/1ad9615d44929cd9aac769341251d980_glossary_eqn18.gif
+file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/1ad9615d44929cd9aac769341251d980_glossary_eqn18.gif
 file_size: 426
 file_type: image/gif
 image_metadata:

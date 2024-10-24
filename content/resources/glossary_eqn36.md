@@ -2,7 +2,7 @@
 content_type: resource
 description: Mathematical symbol for the (k-1) -th derivative of f with respect to
   x
-file: /courses/18-013a-calculus-with-applications-spring-2005/4a1aee630e2cda3784ae3186bbd25c4b_glossary_eqn36.gif
+file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/4a1aee630e2cda3784ae3186bbd25c4b_glossary_eqn36.gif
 file_size: 450
 file_type: image/gif
 image_metadata:

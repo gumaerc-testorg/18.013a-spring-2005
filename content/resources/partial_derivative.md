@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-013a-calculus-with-applications-spring-2005/d4765565d40523c079328717bd7873fa_partial_derivative.gif
+file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/d4765565d40523c079328717bd7873fa_partial_derivative.gif
 file_size: 275
 file_type: image/gif
 image_metadata:

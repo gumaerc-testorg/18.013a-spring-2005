@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mathematical formula for the tangent of x (i.e. sin(x) divided by cos(x)).
-file: /courses/18-013a-calculus-with-applications-spring-2005/2faf984c74dae8fe1ea57c159fff04fc_glossary_eqn04.gif
+file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/2faf984c74dae8fe1ea57c159fff04fc_glossary_eqn04.gif
 file_size: 448
 file_type: image/gif
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mathematical formula for the divergence of the vector field w
-file: /courses/18-013a-calculus-with-applications-spring-2005/01623d474a9d8faba3776930e8423bba_glossary_eqn28.gif
+file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/01623d474a9d8faba3776930e8423bba_glossary_eqn28.gif
 file_size: 759
 file_type: image/gif
 image_metadata:

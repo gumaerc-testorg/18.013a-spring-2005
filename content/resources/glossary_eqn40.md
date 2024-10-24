@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mathematical formula for the torsion of a curve
-file: /courses/18-013a-calculus-with-applications-spring-2005/e0738a8f06cd99d96463e1bb3a9a98b4_glossary_eqn40.gif
+file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/e0738a8f06cd99d96463e1bb3a9a98b4_glossary_eqn40.gif
 file_size: 462
 file_type: image/gif
 image_metadata:
