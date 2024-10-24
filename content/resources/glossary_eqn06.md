@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mathematical formula for the cosecant (i.e. one divided by cos(x)).
-file: /courses/18-013a-calculus-with-applications-spring-2005/94d7e3d80aa491049e4e9a91b8599527_glossary_eqn06.gif
+file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/94d7e3d80aa491049e4e9a91b8599527_glossary_eqn06.gif
 file_size: 409
 file_type: image/gif
 image_metadata:

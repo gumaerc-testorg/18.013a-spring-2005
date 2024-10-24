@@ -2,7 +2,7 @@
 content_type: resource
 description: Mathematical symbol for the number a raised to the power x; for rational
   x is defined by inverse functions.
-file: /courses/18-013a-calculus-with-applications-spring-2005/36220edb28e184423e67326b33b90bdc_glossary_eqn01.gif
+file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/36220edb28e184423e67326b33b90bdc_glossary_eqn01.gif
 file_size: 323
 file_type: image/gif
 image_metadata:
