@@ -5,7 +5,7 @@ description: Mathematical symbol for the partial derivative of f with respect to
   q is the ratio of df to dq when certain other variables are held fixed. Where there
   is possible misunderstanding over which variables are to be fixed that information
   should be made explicit.
-file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/24244299981a7f97c7c2ad71fcb15adf_glossary_eqn22.gif
+file: /courses/18-013a-calculus-with-applications-spring-2005/24244299981a7f97c7c2ad71fcb15adf_glossary_eqn22.gif
 file_size: 382
 file_type: image/gif
 image_metadata:

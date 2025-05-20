@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/19c564e4230e210bd8bf54a06059ff87_theta_lc_bold_italic.gif
+file: /courses/18-013a-calculus-with-applications-spring-2005/19c564e4230e210bd8bf54a06059ff87_theta_lc_bold_italic.gif
 file_size: 281
 file_type: image/gif
 image_metadata:

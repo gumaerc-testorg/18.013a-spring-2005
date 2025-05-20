@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mathematical formula for the distance to the origin in spherical coordinates.
-file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/1fdc2941cbd8d876541cc31ad31b0af8_glossary_eqn13.gif
+file: /courses/18-013a-calculus-with-applications-spring-2005/1fdc2941cbd8d876541cc31ad31b0af8_glossary_eqn13.gif
 file_size: 634
 file_type: image/gif
 image_metadata:

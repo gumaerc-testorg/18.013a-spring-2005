@@ -2,7 +2,7 @@
 content_type: resource
 description: Mathematical symbol used to denote a summation, usually the index and
   often their end values are written under it with upper end value above it.
-file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/895ef02b0c5ae320d88f498a80233b77_glossary_eqn11.gif
+file: /courses/18-013a-calculus-with-applications-spring-2005/895ef02b0c5ae320d88f498a80233b77_glossary_eqn11.gif
 file_size: 339
 file_type: image/gif
 image_metadata:

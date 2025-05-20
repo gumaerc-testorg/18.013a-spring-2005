@@ -2,7 +2,7 @@
 content_type: resource
 description: Mathematical formula for the complement of the tangent function or cotangent
   (i.e. cos(x)/sin(x)).
-file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/87630dc7c6710233079f7b56880f2291_glossary_eqn05.gif
+file: /courses/18-013a-calculus-with-applications-spring-2005/87630dc7c6710233079f7b56880f2291_glossary_eqn05.gif
 file_size: 448
 file_type: image/gif
 image_metadata:

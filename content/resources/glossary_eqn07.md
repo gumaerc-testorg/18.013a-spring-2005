@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mathematical formula for the cosecant (i.e. one divided by sin(x)).
-file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/43b9a3006d842f9a0599f83a81a59c11_glossary_eqn07.gif
+file: /courses/18-013a-calculus-with-applications-spring-2005/43b9a3006d842f9a0599f83a81a59c11_glossary_eqn07.gif
 file_size: 406
 file_type: image/gif
 image_metadata:
