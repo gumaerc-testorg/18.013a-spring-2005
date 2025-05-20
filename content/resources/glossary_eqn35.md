@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mathematical symbol for the k-th derivative of f with respect to x
-file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/35f7ac30e6affeafdd6cb748b6d8c889_glossary_eqn35.gif
+file: /courses/18-013a-calculus-with-applications-spring-2005/35f7ac30e6affeafdd6cb748b6d8c889_glossary_eqn35.gif
 file_size: 417
 file_type: image/gif
 image_metadata:

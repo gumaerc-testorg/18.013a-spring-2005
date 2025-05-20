@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mathematical symbol for the gradient of f
-file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/1ff18a625ab0c2504ba4249ab3d9a91f_glossary_eqn26.gif
+file: /courses/18-013a-calculus-with-applications-spring-2005/1ff18a625ab0c2504ba4249ab3d9a91f_glossary_eqn26.gif
 file_size: 318
 file_type: image/gif
 image_metadata:

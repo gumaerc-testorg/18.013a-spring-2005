@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mathematical symbol for the second derivative of f with respect to x
-file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/bc68a496bfc64ccc8ed4550f6e734b44_glossary_eqn33.gif
+file: /courses/18-013a-calculus-with-applications-spring-2005/bc68a496bfc64ccc8ed4550f6e734b44_glossary_eqn33.gif
 file_size: 450
 file_type: image/gif
 image_metadata:
