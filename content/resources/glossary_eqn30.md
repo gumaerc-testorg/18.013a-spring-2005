@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mathematical formula for the components of the curl of w
-file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/0df19b5bd8beaeece7984e3b6ec9c123_glossary_eqn30.gif
+file: /courses/18-013a-calculus-with-applications-spring-2005/0df19b5bd8beaeece7984e3b6ec9c123_glossary_eqn30.gif
 file_size: 1269
 file_type: image/gif
 image_metadata:

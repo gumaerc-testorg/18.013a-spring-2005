@@ -2,7 +2,7 @@
 content_type: resource
 description: Mathematical symbol for the vector product or cross product of two vectors,
   v and w.
-file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/6e8c74f336029acd5cbbff4467de3d9b_glossary_eqn16.gif
+file: /courses/18-013a-calculus-with-applications-spring-2005/6e8c74f336029acd5cbbff4467de3d9b_glossary_eqn16.gif
 file_size: 365
 file_type: image/gif
 image_metadata:

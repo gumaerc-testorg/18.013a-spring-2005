@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mathematical symbol for the dot product of vectors a and b.
-file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/de63a3ab20d44564f2b18cba5874975e_glossary_eqn09.gif
+file: /courses/18-013a-calculus-with-applications-spring-2005/de63a3ab20d44564f2b18cba5874975e_glossary_eqn09.gif
 file_size: 341
 file_type: image/gif
 image_metadata:
