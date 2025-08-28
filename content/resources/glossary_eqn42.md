@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mathematical symbols for position and momentum.
-file: /courses/18-013a-calculus-with-applications-spring-2005/8d8595a5feae55e35ba24aaaf3387e22_glossary_eqn42.gif
+file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/8d8595a5feae55e35ba24aaaf3387e22_glossary_eqn42.gif
 file_size: 526
 file_type: image/gif
 image_metadata:

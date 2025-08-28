@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-013a-calculus-with-applications-spring-2005/729f7ddb125cb924d8c5bb0642bc035c_kappa_lc_red.gif
+file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/729f7ddb125cb924d8c5bb0642bc035c_kappa_lc_red.gif
 file_size: 312
 file_type: image/gif
 image_metadata:

@@ -42,9 +42,10 @@
   },
   "learning_resource_types": [
     "Simulations",
-    "Online Textbook"
+    "Open Textbooks"
   ],
   "site_uid": "7880c6a9-0c99-49ad-a599-8022e3ce3ff5",
   "site_short_id": "18.013a-spring-2005",
+  "site_url_path": "courses/18-013a-calculus-with-applications-spring-2005",
   "title": "Course Metadata"
 }

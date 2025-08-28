@@ -2,7 +2,7 @@
 content_type: resource
 description: Mathematical symbol for the antiderivative of f(x) expressed as a function
   of x.
-file: /courses/18-013a-calculus-with-applications-spring-2005/5350865634bd181f9b70c8d2a2bed7f7_glossary_eqn43.gif
+file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/5350865634bd181f9b70c8d2a2bed7f7_glossary_eqn43.gif
 file_size: 485
 file_type: image/gif
 image_metadata:
