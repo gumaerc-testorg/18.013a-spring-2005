@@ -2,7 +2,7 @@
 content_type: resource
 description: Mathematical formula for the distance to the z axis in three dimensions
   or in polar coordinates.
-file: /courses/18-013a-calculus-with-applications-spring-2005/0e15e4e436884f48b5b965568688e0d9_glossary_eqn14.gif
+file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/0e15e4e436884f48b5b965568688e0d9_glossary_eqn14.gif
 file_size: 557
 file_type: image/gif
 image_metadata:

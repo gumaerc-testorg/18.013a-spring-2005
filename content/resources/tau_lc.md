@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mathematical symbol for the torsion of a curve (Greek letter tau).
-file: /courses/18-013a-calculus-with-applications-spring-2005/c7715f0b658a2e20110596a90aea4b50_tau_lc.gif
+file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/c7715f0b658a2e20110596a90aea4b50_tau_lc.gif
 file_size: 266
 file_type: image/gif
 image_metadata:
