@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mathematical formula for the Laplacian.
-file: /courses/18-013a-calculus-with-applications-spring-2005/d973ff94ed962d21cd723a01470917f7_glossary_eqn32.gif
+file: /ol-ocw-studio-app/courses/18-013a-calculus-with-applications-spring-2005/d973ff94ed962d21cd723a01470917f7_glossary_eqn32.gif
 file_size: 736
 file_type: image/gif
 image_metadata:
